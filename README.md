@@ -1,6 +1,6 @@
 <div align="center">
 
-# Future CV: 유명현 (Yoo Myeong Hyeon) 
+<h1> Future CV: 유명현 (Yoo Myeong Hyeon) </h1>
 
 <h4> "현실에는 충실하되, 가슴에는 불가능한 꿈을 품을 줄 아는 사람으로 나아가고 있습니다" </h4>
 
