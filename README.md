@@ -16,7 +16,7 @@
 
 ## 👤 개인 정보 (Contact)
 * **이름 : 유명현 (Yoo Myeong Hyeon)**
-* **E-mail :** [fjssldaos91@kw.ac.kr](mailto:fjssldaos91@kw.ac.kr)
+* **E-mail :** fjssldaos91@kw.ac.kr
 * **Github :** [github.com/famouxsss24](https://github.com/famouxsss24)  
 
 <br> <br>
@@ -24,7 +24,7 @@
 <!-- 개인 정보 넣어주었습니다. -->
 
 ## 💡 자기소개 (About Me)
-국방 무기체계의 신뢰성을 책임지는 **Software & Security Engineer**  
+국방 무기체계의 신뢰성을 책임지는 **Software & Security Engineer** <br>
 광운대학교에서 정보융합학부에서 배운 기본 CS지식과 데이터사이언스(DS) 지식을 기반으로,  
 로봇학을 복수전공하여 방산 업계 SW의 보안 취약점 연구에 집중해왔습니다.  
 
